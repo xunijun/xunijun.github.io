@@ -3,9 +3,9 @@
  "message": "success",
  "data": {
   "bannerLevel": 1,
-  "bannerFirst": 201,
-  "bannerSecond": 604,
-  "bannerRemaining": 6,
+  "bannerFirst": 101,
+  "bannerSecond": 403,
+  "bannerRemaining": 10,
   "bannerWaiting": 5000
  }
 }
