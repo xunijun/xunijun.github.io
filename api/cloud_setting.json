@@ -1,0 +1,11 @@
+{
+ "code": 0,
+ "message": "success",
+ "data": {
+  "bannerLevel": 1,
+  "bannerFirst": 201,
+  "bannerSecond": 604,
+  "bannerRemaining": 6,
+  "bannerWaiting": 5000
+ }
+}
