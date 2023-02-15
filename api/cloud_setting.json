@@ -6,6 +6,9 @@
   "bannerFirst": 201,
   "bannerSecond": 604,
   "bannerRemaining": 6,
-  "bannerWaiting": 5000
+  "bannerWaiting": 5000,
+  "bannerDuration": 30000,
+  "bannerDurationGithub":10000
+
  }
 }
