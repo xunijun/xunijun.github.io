@@ -3,8 +3,8 @@
  "message": "success",
  "data": {
   "bannerLevel": 1,
-  "bannerFirst": 201,
-  "bannerSecond": 604,
+  "bannerFirst": 301,
+  "bannerSecond": 603,
   "bannerRemaining": 6,
   "bannerWaiting": 5000,
   "bannerDuration": 30000,
