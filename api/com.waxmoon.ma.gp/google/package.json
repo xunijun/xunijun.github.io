@@ -4,6 +4,6 @@
   "message":"success",
   "data":{
   "versionCode":1206,
-    "force":true
+    "force":false
   }
 }
