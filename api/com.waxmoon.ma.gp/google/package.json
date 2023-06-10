@@ -4,7 +4,7 @@
   "message":"success",
   "data":{
   "versionCode":1207,
-    "force":true,
+    "force":false,
     "content":"this is default content"
   }
 }
