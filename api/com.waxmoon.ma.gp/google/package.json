@@ -3,7 +3,7 @@
 "code":0,
   "message":"success",
   "data":{
-  "versionCode":1206,
+  "versionCode":1204,
     "force":false,
     "content":"this is default content"
   }
