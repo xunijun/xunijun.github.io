@@ -3,9 +3,9 @@
  "message": "success",
  "data": {
   "bannerLevel": 1,
-  "bannerFirst": 301,
-  "bannerSecond": 603,
-  "bannerRemaining": 6,
+  "bannerFirst": 601,
+  "bannerSecond": 1002,
+  "bannerRemaining": 16,
   "bannerWaiting": 5000,
   "bannerDuration": 30000,
   "bannerDurationGithub":10000
