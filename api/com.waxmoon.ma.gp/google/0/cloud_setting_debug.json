@@ -1,1 +1,16 @@
-
+{
+	"code": 0,
+	"message": "success",
+	"data": {
+		"banner": {
+			"bannerLevel": 1,
+			"bannerFirst": 601,
+			"bannerSecond": 1002,
+			"bannerRemaining": 16,
+			"bannerWaiting": 6000,
+			"bannerDuration": 0,
+			"bannerDurationGithub": 1000
+		},
+		"duration": 600000
+	}
+}
