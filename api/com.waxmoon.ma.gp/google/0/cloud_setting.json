@@ -8,7 +8,7 @@
 			"bannerSecond": 1002,
 			"bannerRemaining": 16,
 			"bannerWaiting": 6000,
-			"bannerDuration": 0,
+			"bannerDuration": 20000,
 			"bannerDurationGithub": 1000
 		},
 		"duration": 600000
