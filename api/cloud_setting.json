@@ -10,10 +10,5 @@
 		"bannerDuration": 30000,
 		"bannerDurationGithub": 1000
 
-	},
-	"redeemRule": [{
-		"coins": 7,
-		"origCoins": 7,
-		"days": 1
-	}]
+	}
 }
