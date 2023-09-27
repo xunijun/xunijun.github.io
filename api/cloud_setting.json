@@ -1,14 +1,19 @@
 {
- "code": 0,
- "message": "success",
- "data": {
-  "bannerLevel": 1,
-  "bannerFirst": 601,
-  "bannerSecond": 1002,
-  "bannerRemaining": 16,
-  "bannerWaiting": 6000,
-  "bannerDuration": 30000,
-  "bannerDurationGithub":1000
+	"code": 0,
+	"message": "success",
+	"data": {
+		"bannerLevel": 1,
+		"bannerFirst": 601,
+		"bannerSecond": 1002,
+		"bannerRemaining": 16,
+		"bannerWaiting": 6000,
+		"bannerDuration": 30000,
+		"bannerDurationGithub": 1000
 
- }
+	},
+	"redeemRule": [{
+		"coins": 7,
+		"origCoins": 7,
+		"days": 1
+	}]
 }
