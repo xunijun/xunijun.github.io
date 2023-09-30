@@ -8,14 +8,22 @@
 			"bannerSecond": 1002,
 			"bannerRemaining": 16,
 			"bannerWaiting": 6000,
-			"bannerDuration": 20000,
+			"bannerDuration": 5000,
 			"bannerDurationGithub": 1000
 		},
 		"duration": 600000,
 		"redeemRule": [{
-			"coins": 7,
-			"origCoins": 7,
+			"coins": 8,
+			"origCoins": 8,
 			"days": 1
+		}, {
+			"coins": 15,
+			"origCoins": 15,
+			"days": 2
+		}, {
+			"coins": 21,
+			"origCoins": 21,
+			"days": 3
 		}]
 	}
 }
