@@ -8,6 +8,7 @@
 			"bannerSecond": 1002,
 			"bannerRemaining": 16,
 			"bannerWaiting": 6000,
+			"bannerWaiting2": 2000,
 			"bannerDuration": 5000,
 			"bannerDurationGithub": 1000,
 			"rewardFirst": true,
