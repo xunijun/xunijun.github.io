@@ -9,7 +9,10 @@
 			"bannerRemaining": 16,
 			"bannerWaiting": 6000,
 			"bannerDuration": 5000,
-			"bannerDurationGithub": 1000
+			"bannerDurationGithub": 1000,
+			"rewardFirst": true,
+			"newUserFree": 0,
+			"newUserFreeTimes": 0
 		},
 		"duration": 600000,
 		"redeemRule": [{
