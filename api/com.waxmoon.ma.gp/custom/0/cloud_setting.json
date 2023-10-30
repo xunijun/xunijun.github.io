@@ -1,0 +1,38 @@
+{
+	"code": 0,
+	"message": "success",
+	"data": {
+		"banner": {
+			"bannerLevel": 0,
+			"bannerFirst": 601,
+			"bannerSecond": 1002,
+			"bannerRemaining": 16,
+			"bannerWaiting": 6000,
+			"bannerWaiting2": 2000,
+			"bannerDuration": 5000,
+			"bannerDurationGithub": 1000,
+			"rewardFirst": true,
+			"newUserFree": 0,
+			"newUserFreeTimes": 0
+		},
+    "redeemCoin":{
+
+    "redeem":1000,
+      "token":"custom"
+  },
+		"duration": 600000,
+		"redeemRule": [{
+			"coins": 8,
+			"origCoins": 8,
+			"days": 1
+		}, {
+			"coins": 15,
+			"origCoins": 15,
+			"days": 2
+		}, {
+			"coins": 21,
+			"origCoins": 21,
+			"days": 3
+		}]
+	}
+}
