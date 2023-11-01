@@ -4,6 +4,7 @@
   "message":"success",
   "data":{
   "versionCode":1305,
+    "duration": 10000
     "force":false,
     "content":"We need to transfer the application and transfer the account to waxmoon"
   }
