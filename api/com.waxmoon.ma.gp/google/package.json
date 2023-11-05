@@ -5,7 +5,7 @@
   "data":{
   "versionCode":1,
     "duration": 600000,
-    "force":true,
+    "force":false,
     "content":"We need to transfer the application and transfer the account to waxmoon"
   }
 }
